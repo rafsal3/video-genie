@@ -7,9 +7,12 @@ from .audio import text_to_audio_playht
 # text modules
 from .text import speech_to_text_assemblyai
 from .text import generate_script
+from .text import generate_assets
 from .text import json_to_script_text
 from .text import text_to_sentences_json
 from .text import words_to_sentances
+from .text import extract_json
+from .text import map_assets_to_sentences
 
 
 # image modules

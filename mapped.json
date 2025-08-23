@@ -1,0 +1,44 @@
+[
+    {
+        "order_id": 1,
+        "text": "AI Education",
+        "type": "text",
+        "start": 160,
+        "end": 2479
+    },
+    {
+        "order_id": 2,
+        "text": "Personal Paths",
+        "type": "text",
+        "start": 2480,
+        "end": 4559
+    },
+    {
+        "order_id": 3,
+        "text": "AI Tutors",
+        "type": "image",
+        "start": 4560,
+        "end": 5559
+    },
+    {
+        "order_id": 4,
+        "text": "Automated Feedback",
+        "type": "text",
+        "start": 5560,
+        "end": 8719
+    },
+    {
+        "order_id": 5,
+        "text": "Creativity",
+        "type": "gif",
+        "start": 8720,
+        "end": 13199
+    },
+    {
+        "order_id": 6,
+        "text": "Engage & Learn",
+        "type": "gif",
+        "start": 13200,
+        "end": 16000
+    }
+]

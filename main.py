@@ -4,6 +4,8 @@ from tools import text_to_audio_elevenlabs
 # text tools
 from tools import speech_to_text_assemblyai
 from tools import generate_script
+from tools import generate_assets
+from tools import map_assets_to_sentences
 
 # image tools
 from tools import download_image_unsplash
@@ -16,13 +18,14 @@ from tools import text_to_sentences_json
 from tools import json_to_script_text
 
 
+
 # script_text = json_to_script_text("output/scripts/ai_script.json")
 # print("Narration text:\n", script_text)
 # output_file = text_to_audio_elevenlabs(script_text, output_path="output/audio/01.mp3")
 # print(f"Audio file saved as: {output_file}")
 
-audio_file = "output/audio/01.mp3"
-transcript_file = speech_to_text_assemblyai(audio_file)
+# audio_file = "output/audio/01.mp3"
+# transcript_file = speech_to_text_assemblyai(audio_file)
 # print(f"Transcript saved as: {transcript_file}")
 
 # image_file = download_image_unsplash("instagram", output_path="output/images/instagram.jpg")
@@ -54,3 +57,10 @@ transcript_file = speech_to_text_assemblyai(audio_file)
 
 # sentences_json = text_to_sentences_json(script_text )
 # print("Sentences JSON:\n", sentences_json)
+
+# assets = generate_assets("sentences.json")
+# print("Generated Assets:", assets)
+
+
+output_file = map_assets_to_sentences(sentence_path='sentences.json', asset_path='asset.json')
+print("Mapped JSON saved at:", output_file)

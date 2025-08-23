@@ -147,10 +147,50 @@ def words_to_sentances(input_path, output_path="sentences.json"):
     print(f"Sentences saved to: {output_path}")
     return output_path
 
+def map_assets_to_sentences(sentence_path, asset_path, output_path='mapped.json'):
+    # Load sentences
+    with open(sentence_path, 'r', encoding='utf-8') as f:
+        sentences_data = json.load(f)
+        sentences = sentences_data.get('sentences', [])
+    
+    # Load assets
+    with open(asset_path, 'r', encoding='utf-8') as f:
+        assets_data = json.load(f)
+        assets = assets_data.get('assets', [])
+    
+    mapped_assets = []
+    
+    for i, asset in enumerate(assets):
+        # Determine start
+        if i < len(sentences):
+            start = sentences[i]['start']
+        else:
+            start = sentences[-1]['start']  # fallback if more assets than sentences
 
-if __name__ == "__main__":
-    # Example usage
-    input_path = "transcript.json"
-    output_path = "sentences.json"
-    sentences_json = words_to_sentances(input_path, output_path)
-    print(f"Sentences JSON saved to: {sentences_json}")
+        # Determine end
+        if i + 1 < len(sentences):
+            end = sentences[i+1]['start'] - 1
+        else:
+            end = sentences[-1]['end']  # last sentence keeps original end
+
+        mapped_asset = {
+            'order_id': asset['order_id'],
+            'text': asset['text'],
+            'type': asset['type'],
+            'start': start,
+            'end': end
+        }
+        mapped_assets.append(mapped_asset)
+    
+    # Ensure output directory exists
+    os.makedirs(os.path.dirname(output_path), exist_ok=True) if os.path.dirname(output_path) else None
+    
+    # Write mapped.json
+    with open(output_path, 'w', encoding='utf-8') as f:
+        json.dump(mapped_assets, f, indent=4)
+    
+    return output_path
+
+
+
+

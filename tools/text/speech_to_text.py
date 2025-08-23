@@ -9,7 +9,7 @@ assemblyai_api_key = os.getenv('ASSEMBLYAI_API_KEY')
 aai.settings.api_key = assemblyai_api_key
 
 
-def speech_to_text_assemblyai(audio_file, output_file="output/transcript.json"):
+def speech_to_text_assemblyai(audio_file, output_file="transcript.json"):
     # Configure transcription settings
     config = aai.TranscriptionConfig(
         word_boost=None,       # Add keywords to boost recognition accuracy (optional)
@@ -42,7 +42,10 @@ def speech_to_text_assemblyai(audio_file, output_file="output/transcript.json"):
         }
 
         # Ensure output folder exists
-        os.makedirs(os.path.dirname(output_file), exist_ok=True)
+        dir_name = os.path.dirname(output_file)
+        if dir_name:
+            os.makedirs(dir_name, exist_ok=True)
+
 
         # Save transcription result to a JSON file
         with open(output_file, 'w') as json_file:

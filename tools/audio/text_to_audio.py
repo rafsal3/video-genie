@@ -11,11 +11,14 @@ load_dotenv()
 
 
 
-def text_to_audio_elevenlabs(text, output_path="output/audio/output.mp3"):
+def text_to_audio_elevenlabs(text, output_path="output.mp3"):
     elevenlabs_api_key = os.getenv('ELEVENLABS_API_KEY')
     elevenlabs = ElevenLabs(api_key=elevenlabs_api_key)
     # Ensure directory exists
-    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    dir_name = os.path.dirname(output_path)
+    if dir_name:
+        os.makedirs(dir_name, exist_ok=True)
+
 
     # Convert text to speech
     audio_stream = elevenlabs.text_to_speech.convert(

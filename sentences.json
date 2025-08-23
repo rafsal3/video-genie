@@ -1,0 +1,34 @@
+{
+    "sentences": [
+        {
+            "start": 160,
+            "end": 1600,
+            "sentence": "AI will transform education."
+        },
+        {
+            "start": 2480,
+            "end": 4560,
+            "sentence": "Think personalized learning paths,"
+        },
+        {
+            "start": 4560,
+            "end": 5560,
+            "sentence": "AI tutors,"
+        },
+        {
+            "start": 5560,
+            "end": 8000,
+            "sentence": "and automated feedback for every student."
+        },
+        {
+            "start": 8720,
+            "end": 12800,
+            "sentence": "This frees educators to inspire creativity and critical thinking,"
+        },
+        {
+            "start": 13200,
+            "end": 16000,
+            "sentence": "making learning more efficient and engaging than ever."
+        }
+    ]
+}

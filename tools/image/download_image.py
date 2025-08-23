@@ -9,13 +9,16 @@ load_dotenv()
 unsplash_api_key = os.getenv('UNSPLASH_ACCESS_KEY')
 
 
-def download_image_unsplash(keyword, output_path):
+def download_image_unsplash(keyword, output_path="output.jpg"):
 
     try:
         print("Collecting images ...")
 
         # Ensure the directory for output_path exists
-        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+        dir_name = os.path.dirname(output_path)
+        if dir_name:
+            os.makedirs(dir_name, exist_ok=True)
+
 
         # Unsplash API request
         url = f"https://api.unsplash.com/search/photos?query={keyword}&client_id={unsplash_api_key}&per_page=1"
@@ -50,7 +53,7 @@ def download_image_unsplash(keyword, output_path):
         return None
     
 
-def download_image_google(keyword, output_path):
+def download_image_google(keyword, output_path="output.jpg"):
     google_api_key = os.getenv('SEARCH_ENGINE_API_KEY')
     search_engine_id = os.getenv('SEARCH_ENGINE_ID')
     try:
@@ -62,7 +65,10 @@ def download_image_google(keyword, output_path):
         print(f"Searching for image with keyword: '{keyword}'")
         
         # Ensure the directory for output_path exists
-        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+        dir_name = os.path.dirname(output_path)
+        if dir_name:
+            os.makedirs(dir_name, exist_ok=True)
+
         
         # Google Custom Search API request
         params = {
@@ -105,7 +111,7 @@ def download_image_google(keyword, output_path):
         print(f"Error during image search and save: {e}")
         return None
 
-def download_gif_tenor(keyword, output_path):
+def download_gif_tenor(keyword, output_path="output.mp4"):
     tenor_api_key = os.getenv('TENOR_API_KEY')
     lmt = 1
     ckey = os.getenv('C_KEY')
@@ -128,8 +134,10 @@ def download_gif_tenor(keyword, output_path):
         mp4_url = gif_data["results"][0]["media_formats"]["mp4"]["url"]
         print(f"Found MP4 URL: {mp4_url}")
 
-        # Ensure the directory for output_path exists
-        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+        # Create directory only if output_path contains one
+        dir_name = os.path.dirname(output_path)
+        if dir_name:
+            os.makedirs(dir_name, exist_ok=True)
 
         # Download the MP4 content
         mp4_response = requests.get(mp4_url)
@@ -146,4 +154,3 @@ def download_gif_tenor(keyword, output_path):
     except Exception as e:
         print(f"Error during GIF search and save: {e}")
         return None
-    

@@ -121,7 +121,7 @@ def _calculate_dynamic_font_size(text: str) -> int:
 
 def create_text_video(
     text: str,
-    output_path: str,
+    output_path: str = "output.mp4",
     video_format: str = "long",
     effect_type: str = 'reveal_by_word',
     font_color: Optional[Color] = None,

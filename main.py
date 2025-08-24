@@ -87,8 +87,8 @@ if __name__ == "__main__":
     # print("Narration text:\n", script_text)
 
     # 3. Convert the narration text to audio
-    # output_file = text_to_audio_elevenlabs(script_text, output_path="output/audio/01.mp3")
-    # print(f"Audio file saved as: {output_file}")
+    # audio_path = text_to_audio_elevenlabs(script_text, output_path="output/audio/01.mp3")
+    # print(f"Audio file saved as: {audio_path}")
 
     # 4. Convert the audio to transcript
     # audio_file = "output/audio/01.mp3"
@@ -106,14 +106,14 @@ if __name__ == "__main__":
     # print("Generated Assets:", assets)
 
     # 7. Map assets to sentences
-    # sentence_path = "output/transcript/sentences.json"
-    # asset_path = "output/assets/asset.json"
-    # output_file = map_assets_to_sentences(sentence_path, asset_path, output_path="output/render/mapped.json")
-    # print("Mapped JSON saved at:", output_file)
+    sentence_path = "output/transcript/sentences.json"
+    asset_path = "output/assets/asset.json"
+    output_file = map_assets_to_sentences(sentence_path, asset_path, output_path="output/render/mapped.json")
+    print("Mapped JSON saved at:", output_file)
 
     # 8. Generate assets from JSON
-    # json_path = "output/render/mapped.json"
-    # generate_assets_from_json(json_path)
+    json_path = "output/render/mapped.json"
+    generate_assets_from_json(json_path)
 
     # 9. Render the final video
     mapped_json_path = "output/render/mapped.json"

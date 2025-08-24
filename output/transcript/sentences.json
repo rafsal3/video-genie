@@ -1,0 +1,389 @@
+{
+    "sentences": [
+        {
+            "start": 80,
+            "end": 1760,
+            "sentence": "If you've been scrolling through the news,"
+        },
+        {
+            "start": 2000,
+            "end": 4880,
+            "sentence": "seeing headlines about AI's meteoric rise,"
+        },
+        {
+            "start": 4880,
+            "end": 7680,
+            "sentence": "and feeling that nagging doubt in the back of your mind,"
+        },
+        {
+            "start": 8080,
+            "end": 9600,
+            "sentence": "you've clicked on the right video."
+        },
+        {
+            "start": 10080,
+            "end": 15800,
+            "sentence": "I've spent years tracking tech cycles and I'm here to unpack what's really happening today."
+        },
+        {
+            "start": 15800,
+            "end": 17840,
+            "sentence": "We're not just looking at the shiny promises."
+        },
+        {
+            "start": 18160,
+            "end": 23920,
+            "sentence": "We're diving deep into the very real concerns that the AI revolution might be heading for a massive bust,"
+        },
+        {
+            "start": 24160,
+            "end": 26400,
+            "sentence": "echoing some of the biggest crashes in history."
+        },
+        {
+            "start": 27300,
+            "end": 27700,
+            "sentence": "For me,"
+        },
+        {
+            "start": 27780,
+            "end": 30060,
+            "sentence": "seeing the echoes of past tech bubbles,"
+        },
+        {
+            "start": 30060,
+            "end": 36980,
+            "sentence": "it feels critical to understand if we're making the same mistakes again and what that means for all of us invested in this future."
+        },
+        {
+            "start": 37700,
+            "end": 41460,
+            "sentence": "You might expect the red flags to be just about inflated stock prices."
+        },
+        {
+            "start": 41860,
+            "end": 46180,
+            "sentence": "But what if the biggest indicator of an impending crash isn't on Wall street at all,"
+        },
+        {
+            "start": 46420,
+            "end": 51460,
+            "sentence": "but rather is already starting to reveal itself in the very technology meant to lead the charge?"
+        },
+        {
+            "start": 52180,
+            "end": 56260,
+            "sentence": "So what exactly are these cracks appearing beneath the surface of the AI boom?"
+        },
+        {
+            "start": 56890,
+            "end": 59770,
+            "sentence": "Many are drawing stark parallels to the dot com era,"
+        },
+        {
+            "start": 59850,
+            "end": 65770,
+            "sentence": "where exuberance overtook reality and companies with little more than a website were valued in the billions."
+        },
+        {
+            "start": 66090,
+            "end": 67130,
+            "sentence": "But here's the thing."
+        },
+        {
+            "start": 67130,
+            "end": 68890,
+            "sentence": "It's not just a feeling this time."
+        },
+        {
+            "start": 68890,
+            "end": 70650,
+            "sentence": "We're seeing concrete indicators."
+        },
+        {
+            "start": 71450,
+            "end": 74810,
+            "sentence": "Remember all the hype around the next generation of AI models?"
+        },
+        {
+            "start": 75210,
+            "end": 75490,
+            "sentence": "Well,"
+        },
+        {
+            "start": 75490,
+            "end": 77530,
+            "sentence": "when GPT5 finally arrived,"
+        },
+        {
+            "start": 77610,
+            "end": 79690,
+            "sentence": "the reaction wasn't a roar of innovation,"
+        },
+        {
+            "start": 79690,
+            "end": 81210,
+            "sentence": "but a collective shrug."
+        },
+        {
+            "start": 81450,
+            "end": 82090,
+            "sentence": "Its performance,"
+        },
+        {
+            "start": 82330,
+            "end": 82850,
+            "sentence": "frankly,"
+        },
+        {
+            "start": 82850,
+            "end": 83850,
+            "sentence": "was underwhelming."
+        },
+        {
+            "start": 84650,
+            "end": 85010,
+            "sentence": "And that,"
+        },
+        {
+            "start": 85010,
+            "end": 85690,
+            "sentence": "surprisingly,"
+        },
+        {
+            "start": 85690,
+            "end": 88170,
+            "sentence": "has been a massive catalyst for market jitters,"
+        },
+        {
+            "start": 88330,
+            "end": 91930,
+            "sentence": "leaving many to wonder if we're hitting a plateau sooner than anyone expected."
+        },
+        {
+            "start": 92730,
+            "end": 93850,
+            "sentence": "But it gets worse."
+        },
+        {
+            "start": 94010,
+            "end": 96250,
+            "sentence": "It's not just the headline grabbing models."
+        },
+        {
+            "start": 96730,
+            "end": 104010,
+            "sentence": "Companies rushing to implement generative AI are facing a brutal a high failure rate for pilot projects."
+        },
+        {
+            "start": 104490,
+            "end": 109370,
+            "sentence": "Imagine investing millions only for your grand AI experiment to fizzle out."
+        },
+        {
+            "start": 110020,
+            "end": 111700,
+            "sentence": "This isn't just about disappointment."
+        },
+        {
+            "start": 111780,
+            "end": 114340,
+            "sentence": "It's about wasted capital and shattered confidence."
+        },
+        {
+            "start": 115220,
+            "end": 115500,
+            "sentence": "Now,"
+        },
+        {
+            "start": 115500,
+            "end": 117340,
+            "sentence": "you might think these are just growing pains,"
+        },
+        {
+            "start": 117340,
+            "end": 117700,
+            "sentence": "right?"
+        },
+        {
+            "start": 118180,
+            "end": 121940,
+            "sentence": "But what if the very architects of AI are saying we've got it all wrong?"
+        },
+        {
+            "start": 122500,
+            "end": 126580,
+            "sentence": "That's exactly what prominent AI researcher Gary Marcus argues."
+        },
+        {
+            "start": 127060,
+            "end": 128140,
+            "sentence": "He's been vocal,"
+        },
+        {
+            "start": 128140,
+            "end": 131620,
+            "sentence": "calling out that the expectations of artificial general intelligence,"
+        },
+        {
+            "start": 131860,
+            "end": 132900,
+            "sentence": "or AGI,"
+        },
+        {
+            "start": 132980,
+            "end": 134260,
+            "sentence": "are not just premature,"
+        },
+        {
+            "start": 134660,
+            "end": 138980,
+            "sentence": "but based on a fundamental misunderstanding of what current AI can actually do."
+        },
+        {
+            "start": 139610,
+            "end": 142010,
+            "sentence": "He suggests we're building castles on sand,"
+        },
+        {
+            "start": 142410,
+            "end": 145210,
+            "sentence": "confusing pattern recognition with true intelligence."
+        },
+        {
+            "start": 145930,
+            "end": 149130,
+            "sentence": "So what are the big players on Wall street saying about all this?"
+        },
+        {
+            "start": 149850,
+            "end": 151130,
+            "sentence": "It's a divided room."
+        },
+        {
+            "start": 151370,
+            "end": 152050,
+            "sentence": "On one hand,"
+        },
+        {
+            "start": 152050,
+            "end": 154410,
+            "sentence": "you have analysts cautiously optimistic,"
+        },
+        {
+            "start": 154650,
+            "end": 160010,
+            "sentence": "holding onto the long term vision of AI driving efficiency and productivity across industries."
+        },
+        {
+            "start": 160570,
+            "end": 163610,
+            "sentence": "They see this as a necessary investment for future growth."
+        },
+        {
+            "start": 163850,
+            "end": 165330,
+            "sentence": "And that sounds reassuring,"
+        },
+        {
+            "start": 165330,
+            "end": 165930,
+            "sentence": "doesn't it?"
+        },
+        {
+            "start": 166540,
+            "end": 167340,
+            "sentence": "But here's the thing."
+        },
+        {
+            "start": 167500,
+            "end": 167860,
+            "sentence": "Others,"
+        },
+        {
+            "start": 167860,
+            "end": 169980,
+            "sentence": "like Deutsche Bank's Torsten Slok,"
+        },
+        {
+            "start": 169980,
+            "end": 171820,
+            "sentence": "are sounding a much louder alarm."
+        },
+        {
+            "start": 172140,
+            "end": 175660,
+            "sentence": "He's openly warning about massively overvalued tech stocks,"
+        },
+        {
+            "start": 175660,
+            "end": 177500,
+            "sentence": "fueled by the AI craze."
+        },
+        {
+            "start": 177580,
+            "end": 179500,
+            "sentence": "And it's not just stock prices."
+        },
+        {
+            "start": 179660,
+            "end": 183660,
+            "sentence": "Companies are pouring staggering amounts of money into building new data centers,"
+        },
+        {
+            "start": 184220,
+            "end": 186940,
+            "sentence": "the physical infrastructure for this AI boom."
+        },
+        {
+            "start": 187260,
+            "end": 193420,
+            "sentence": "It's an investment spree that for many feels eerily reminiscent of the.com bubble's infrastructure overbuild,"
+        },
+        {
+            "start": 193580,
+            "end": 195740,
+            "sentence": "where capacity far outstripped demand,"
+        },
+        {
+            "start": 196220,
+            "end": 197500,
+            "sentence": "leading to massive losses."
+        },
+        {
+            "start": 198060,
+            "end": 199660,
+            "sentence": "So with underwhelming tech,"
+        },
+        {
+            "start": 199740,
+            "end": 201180,
+            "sentence": "failed corporate pilots,"
+        },
+        {
+            "start": 201420,
+            "end": 203180,
+            "sentence": "experts warning against hype,"
+        },
+        {
+            "start": 203180,
+            "end": 205020,
+            "sentence": "and Wall street itself divided,"
+        },
+        {
+            "start": 205420,
+            "end": 208220,
+            "sentence": "the question isn't just is there an AI bubble?"
+        },
+        {
+            "start": 208300,
+            "end": 210300,
+            "sentence": "But are we already seeing it deflate?"
+        },
+        {
+            "start": 210300,
+            "end": 214540,
+            "sentence": "And what comes next for this revolutionary yet perhaps overhyped technology?"
+        }
+    ]
+}

@@ -1,0 +1,2890 @@
+{
+    "text": "If you've been scrolling through the news, seeing headlines about AI's meteoric rise, and feeling that nagging doubt in the back of your mind, you've clicked on the right video. I've spent years tracking tech cycles and I'm here to unpack what's really happening today. We're not just looking at the shiny promises. We're diving deep into the very real concerns that the AI revolution might be heading for a massive bust, echoing some of the biggest crashes in history. For me, seeing the echoes of past tech bubbles, it feels critical to understand if we're making the same mistakes again and what that means for all of us invested in this future. You might expect the red flags to be just about inflated stock prices. But what if the biggest indicator of an impending crash isn't on Wall street at all, but rather is already starting to reveal itself in the very technology meant to lead the charge? So what exactly are these cracks appearing beneath the surface of the AI boom? Many are drawing stark parallels to the dot com era, where exuberance overtook reality and companies with little more than a website were valued in the billions. But here's the thing. It's not just a feeling this time. We're seeing concrete indicators. Remember all the hype around the next generation of AI models? Well, when GPT5 finally arrived, the reaction wasn't a roar of innovation, but a collective shrug. Its performance, frankly, was underwhelming. And that, surprisingly, has been a massive catalyst for market jitters, leaving many to wonder if we're hitting a plateau sooner than anyone expected. But it gets worse. It's not just the headline grabbing models. Companies rushing to implement generative AI are facing a brutal a high failure rate for pilot projects. Imagine investing millions only for your grand AI experiment to fizzle out. This isn't just about disappointment. It's about wasted capital and shattered confidence. Now, you might think these are just growing pains, right? But what if the very architects of AI are saying we've got it all wrong? That's exactly what prominent AI researcher Gary Marcus argues. He's been vocal, calling out that the expectations of artificial general intelligence, or AGI, are not just premature, but based on a fundamental misunderstanding of what current AI can actually do. He suggests we're building castles on sand, confusing pattern recognition with true intelligence. So what are the big players on Wall street saying about all this? It's a divided room. On one hand, you have analysts cautiously optimistic, holding onto the long term vision of AI driving efficiency and productivity across industries. They see this as a necessary investment for future growth. And that sounds reassuring, doesn't it? But here's the thing. Others, like Deutsche Bank's Torsten Slok, are sounding a much louder alarm. He's openly warning about massively overvalued tech stocks, fueled by the AI craze. And it's not just stock prices. Companies are pouring staggering amounts of money into building new data centers, the physical infrastructure for this AI boom. It's an investment spree that for many feels eerily reminiscent of the.com bubble's infrastructure overbuild, where capacity far outstripped demand, leading to massive losses. So with underwhelming tech, failed corporate pilots, experts warning against hype, and Wall street itself divided, the question isn't just is there an AI bubble? But are we already seeing it deflate? And what comes next for this revolutionary yet perhaps overhyped technology?",
+    "words": [
+        {
+            "start": 80,
+            "end": 200,
+            "word": "If"
+        },
+        {
+            "start": 200,
+            "end": 480,
+            "word": "you've"
+        },
+        {
+            "start": 480,
+            "end": 640,
+            "word": "been"
+        },
+        {
+            "start": 640,
+            "end": 1040,
+            "word": "scrolling"
+        },
+        {
+            "start": 1040,
+            "end": 1280,
+            "word": "through"
+        },
+        {
+            "start": 1280,
+            "end": 1480,
+            "word": "the"
+        },
+        {
+            "start": 1480,
+            "end": 1760,
+            "word": "news,"
+        },
+        {
+            "start": 2000,
+            "end": 2400,
+            "word": "seeing"
+        },
+        {
+            "start": 2400,
+            "end": 2920,
+            "word": "headlines"
+        },
+        {
+            "start": 2920,
+            "end": 3160,
+            "word": "about"
+        },
+        {
+            "start": 3160,
+            "end": 3800,
+            "word": "AI's"
+        },
+        {
+            "start": 3800,
+            "end": 4400,
+            "word": "meteoric"
+        },
+        {
+            "start": 4400,
+            "end": 4880,
+            "word": "rise,"
+        },
+        {
+            "start": 4880,
+            "end": 5240,
+            "word": "and"
+        },
+        {
+            "start": 5240,
+            "end": 5640,
+            "word": "feeling"
+        },
+        {
+            "start": 5640,
+            "end": 5840,
+            "word": "that"
+        },
+        {
+            "start": 5840,
+            "end": 6320,
+            "word": "nagging"
+        },
+        {
+            "start": 6320,
+            "end": 6600,
+            "word": "doubt"
+        },
+        {
+            "start": 6600,
+            "end": 6760,
+            "word": "in"
+        },
+        {
+            "start": 6760,
+            "end": 6880,
+            "word": "the"
+        },
+        {
+            "start": 6880,
+            "end": 7000,
+            "word": "back"
+        },
+        {
+            "start": 7000,
+            "end": 7160,
+            "word": "of"
+        },
+        {
+            "start": 7160,
+            "end": 7360,
+            "word": "your"
+        },
+        {
+            "start": 7360,
+            "end": 7680,
+            "word": "mind,"
+        },
+        {
+            "start": 8080,
+            "end": 8440,
+            "word": "you've"
+        },
+        {
+            "start": 8440,
+            "end": 8720,
+            "word": "clicked"
+        },
+        {
+            "start": 8720,
+            "end": 8840,
+            "word": "on"
+        },
+        {
+            "start": 8840,
+            "end": 9000,
+            "word": "the"
+        },
+        {
+            "start": 9000,
+            "end": 9240,
+            "word": "right"
+        },
+        {
+            "start": 9240,
+            "end": 9600,
+            "word": "video."
+        },
+        {
+            "start": 10080,
+            "end": 10520,
+            "word": "I've"
+        },
+        {
+            "start": 10520,
+            "end": 10800,
+            "word": "spent"
+        },
+        {
+            "start": 10800,
+            "end": 11080,
+            "word": "years"
+        },
+        {
+            "start": 11080,
+            "end": 11520,
+            "word": "tracking"
+        },
+        {
+            "start": 11520,
+            "end": 11880,
+            "word": "tech"
+        },
+        {
+            "start": 11880,
+            "end": 12440,
+            "word": "cycles"
+        },
+        {
+            "start": 12440,
+            "end": 12720,
+            "word": "and"
+        },
+        {
+            "start": 12720,
+            "end": 12960,
+            "word": "I'm"
+        },
+        {
+            "start": 12960,
+            "end": 13120,
+            "word": "here"
+        },
+        {
+            "start": 13120,
+            "end": 13320,
+            "word": "to"
+        },
+        {
+            "start": 13320,
+            "end": 13720,
+            "word": "unpack"
+        },
+        {
+            "start": 13720,
+            "end": 14040,
+            "word": "what's"
+        },
+        {
+            "start": 14040,
+            "end": 14280,
+            "word": "really"
+        },
+        {
+            "start": 14280,
+            "end": 14800,
+            "word": "happening"
+        },
+        {
+            "start": 15440,
+            "end": 15800,
+            "word": "today."
+        },
+        {
+            "start": 15800,
+            "end": 16160,
+            "word": "We're"
+        },
+        {
+            "start": 16160,
+            "end": 16279,
+            "word": "not"
+        },
+        {
+            "start": 16279,
+            "end": 16440,
+            "word": "just"
+        },
+        {
+            "start": 16440,
+            "end": 16640,
+            "word": "looking"
+        },
+        {
+            "start": 16640,
+            "end": 16800,
+            "word": "at"
+        },
+        {
+            "start": 16800,
+            "end": 16920,
+            "word": "the"
+        },
+        {
+            "start": 16920,
+            "end": 17320,
+            "word": "shiny"
+        },
+        {
+            "start": 17320,
+            "end": 17840,
+            "word": "promises."
+        },
+        {
+            "start": 18160,
+            "end": 18520,
+            "word": "We're"
+        },
+        {
+            "start": 18520,
+            "end": 18880,
+            "word": "diving"
+        },
+        {
+            "start": 18880,
+            "end": 19120,
+            "word": "deep"
+        },
+        {
+            "start": 19120,
+            "end": 19320,
+            "word": "into"
+        },
+        {
+            "start": 19320,
+            "end": 19560,
+            "word": "the"
+        },
+        {
+            "start": 19560,
+            "end": 19800,
+            "word": "very"
+        },
+        {
+            "start": 19800,
+            "end": 20120,
+            "word": "real"
+        },
+        {
+            "start": 20120,
+            "end": 20760,
+            "word": "concerns"
+        },
+        {
+            "start": 20760,
+            "end": 21000,
+            "word": "that"
+        },
+        {
+            "start": 21000,
+            "end": 21160,
+            "word": "the"
+        },
+        {
+            "start": 21160,
+            "end": 21520,
+            "word": "AI"
+        },
+        {
+            "start": 21520,
+            "end": 22120,
+            "word": "revolution"
+        },
+        {
+            "start": 22120,
+            "end": 22360,
+            "word": "might"
+        },
+        {
+            "start": 22360,
+            "end": 22520,
+            "word": "be"
+        },
+        {
+            "start": 22520,
+            "end": 22760,
+            "word": "heading"
+        },
+        {
+            "start": 22760,
+            "end": 22920,
+            "word": "for"
+        },
+        {
+            "start": 22920,
+            "end": 23080,
+            "word": "a"
+        },
+        {
+            "start": 23080,
+            "end": 23440,
+            "word": "massive"
+        },
+        {
+            "start": 23440,
+            "end": 23920,
+            "word": "bust,"
+        },
+        {
+            "start": 24160,
+            "end": 24800,
+            "word": "echoing"
+        },
+        {
+            "start": 24800,
+            "end": 25000,
+            "word": "some"
+        },
+        {
+            "start": 25000,
+            "end": 25120,
+            "word": "of"
+        },
+        {
+            "start": 25120,
+            "end": 25200,
+            "word": "the"
+        },
+        {
+            "start": 25200,
+            "end": 25520,
+            "word": "biggest"
+        },
+        {
+            "start": 25520,
+            "end": 25920,
+            "word": "crashes"
+        },
+        {
+            "start": 25920,
+            "end": 26080,
+            "word": "in"
+        },
+        {
+            "start": 26080,
+            "end": 26400,
+            "word": "history."
+        },
+        {
+            "start": 27300,
+            "end": 27420,
+            "word": "For"
+        },
+        {
+            "start": 27420,
+            "end": 27700,
+            "word": "me,"
+        },
+        {
+            "start": 27780,
+            "end": 28140,
+            "word": "seeing"
+        },
+        {
+            "start": 28140,
+            "end": 28300,
+            "word": "the"
+        },
+        {
+            "start": 28300,
+            "end": 28780,
+            "word": "echoes"
+        },
+        {
+            "start": 28780,
+            "end": 28940,
+            "word": "of"
+        },
+        {
+            "start": 28940,
+            "end": 29180,
+            "word": "past"
+        },
+        {
+            "start": 29180,
+            "end": 29540,
+            "word": "tech"
+        },
+        {
+            "start": 29540,
+            "end": 30060,
+            "word": "bubbles,"
+        },
+        {
+            "start": 30060,
+            "end": 30300,
+            "word": "it"
+        },
+        {
+            "start": 30300,
+            "end": 30700,
+            "word": "feels"
+        },
+        {
+            "start": 30700,
+            "end": 31060,
+            "word": "critical"
+        },
+        {
+            "start": 31060,
+            "end": 31260,
+            "word": "to"
+        },
+        {
+            "start": 31260,
+            "end": 31540,
+            "word": "understand"
+        },
+        {
+            "start": 31620,
+            "end": 31940,
+            "word": "if"
+        },
+        {
+            "start": 31940,
+            "end": 32220,
+            "word": "we're"
+        },
+        {
+            "start": 32220,
+            "end": 32420,
+            "word": "making"
+        },
+        {
+            "start": 32420,
+            "end": 32580,
+            "word": "the"
+        },
+        {
+            "start": 32580,
+            "end": 32740,
+            "word": "same"
+        },
+        {
+            "start": 32740,
+            "end": 33220,
+            "word": "mistakes"
+        },
+        {
+            "start": 33220,
+            "end": 33540,
+            "word": "again"
+        },
+        {
+            "start": 33940,
+            "end": 34260,
+            "word": "and"
+        },
+        {
+            "start": 34260,
+            "end": 34500,
+            "word": "what"
+        },
+        {
+            "start": 34500,
+            "end": 34780,
+            "word": "that"
+        },
+        {
+            "start": 34780,
+            "end": 35060,
+            "word": "means"
+        },
+        {
+            "start": 35060,
+            "end": 35260,
+            "word": "for"
+        },
+        {
+            "start": 35260,
+            "end": 35420,
+            "word": "all"
+        },
+        {
+            "start": 35420,
+            "end": 35580,
+            "word": "of"
+        },
+        {
+            "start": 35580,
+            "end": 35780,
+            "word": "us"
+        },
+        {
+            "start": 35780,
+            "end": 36300,
+            "word": "invested"
+        },
+        {
+            "start": 36300,
+            "end": 36460,
+            "word": "in"
+        },
+        {
+            "start": 36460,
+            "end": 36660,
+            "word": "this"
+        },
+        {
+            "start": 36660,
+            "end": 36980,
+            "word": "future."
+        },
+        {
+            "start": 37700,
+            "end": 37980,
+            "word": "You"
+        },
+        {
+            "start": 37980,
+            "end": 38180,
+            "word": "might"
+        },
+        {
+            "start": 38180,
+            "end": 38460,
+            "word": "expect"
+        },
+        {
+            "start": 38460,
+            "end": 38700,
+            "word": "the"
+        },
+        {
+            "start": 38700,
+            "end": 38900,
+            "word": "red"
+        },
+        {
+            "start": 38900,
+            "end": 39340,
+            "word": "flags"
+        },
+        {
+            "start": 39340,
+            "end": 39460,
+            "word": "to"
+        },
+        {
+            "start": 39460,
+            "end": 39580,
+            "word": "be"
+        },
+        {
+            "start": 39580,
+            "end": 39780,
+            "word": "just"
+        },
+        {
+            "start": 39780,
+            "end": 40060,
+            "word": "about"
+        },
+        {
+            "start": 40060,
+            "end": 40620,
+            "word": "inflated"
+        },
+        {
+            "start": 40620,
+            "end": 40980,
+            "word": "stock"
+        },
+        {
+            "start": 40980,
+            "end": 41460,
+            "word": "prices."
+        },
+        {
+            "start": 41860,
+            "end": 42140,
+            "word": "But"
+        },
+        {
+            "start": 42140,
+            "end": 42340,
+            "word": "what"
+        },
+        {
+            "start": 42340,
+            "end": 42540,
+            "word": "if"
+        },
+        {
+            "start": 42540,
+            "end": 42660,
+            "word": "the"
+        },
+        {
+            "start": 42660,
+            "end": 43099,
+            "word": "biggest"
+        },
+        {
+            "start": 43099,
+            "end": 43540,
+            "word": "indicator"
+        },
+        {
+            "start": 43540,
+            "end": 43700,
+            "word": "of"
+        },
+        {
+            "start": 43700,
+            "end": 43820,
+            "word": "an"
+        },
+        {
+            "start": 43820,
+            "end": 44220,
+            "word": "impending"
+        },
+        {
+            "start": 44220,
+            "end": 44660,
+            "word": "crash"
+        },
+        {
+            "start": 44660,
+            "end": 45020,
+            "word": "isn't"
+        },
+        {
+            "start": 45020,
+            "end": 45180,
+            "word": "on"
+        },
+        {
+            "start": 45180,
+            "end": 45460,
+            "word": "Wall"
+        },
+        {
+            "start": 45460,
+            "end": 45700,
+            "word": "street"
+        },
+        {
+            "start": 45700,
+            "end": 45900,
+            "word": "at"
+        },
+        {
+            "start": 45900,
+            "end": 46180,
+            "word": "all,"
+        },
+        {
+            "start": 46420,
+            "end": 46700,
+            "word": "but"
+        },
+        {
+            "start": 46700,
+            "end": 47020,
+            "word": "rather"
+        },
+        {
+            "start": 47020,
+            "end": 47300,
+            "word": "is"
+        },
+        {
+            "start": 47300,
+            "end": 47580,
+            "word": "already"
+        },
+        {
+            "start": 47580,
+            "end": 47980,
+            "word": "starting"
+        },
+        {
+            "start": 47980,
+            "end": 48140,
+            "word": "to"
+        },
+        {
+            "start": 48140,
+            "end": 48460,
+            "word": "reveal"
+        },
+        {
+            "start": 48460,
+            "end": 48820,
+            "word": "itself"
+        },
+        {
+            "start": 48820,
+            "end": 48980,
+            "word": "in"
+        },
+        {
+            "start": 48980,
+            "end": 49100,
+            "word": "the"
+        },
+        {
+            "start": 49100,
+            "end": 49380,
+            "word": "very"
+        },
+        {
+            "start": 49380,
+            "end": 49780,
+            "word": "technology"
+        },
+        {
+            "start": 50100,
+            "end": 50460,
+            "word": "meant"
+        },
+        {
+            "start": 50460,
+            "end": 50580,
+            "word": "to"
+        },
+        {
+            "start": 50580,
+            "end": 50780,
+            "word": "lead"
+        },
+        {
+            "start": 50780,
+            "end": 51020,
+            "word": "the"
+        },
+        {
+            "start": 51020,
+            "end": 51460,
+            "word": "charge?"
+        },
+        {
+            "start": 52180,
+            "end": 52420,
+            "word": "So"
+        },
+        {
+            "start": 52420,
+            "end": 52580,
+            "word": "what"
+        },
+        {
+            "start": 52580,
+            "end": 53060,
+            "word": "exactly"
+        },
+        {
+            "start": 53060,
+            "end": 53260,
+            "word": "are"
+        },
+        {
+            "start": 53260,
+            "end": 53460,
+            "word": "these"
+        },
+        {
+            "start": 53460,
+            "end": 53900,
+            "word": "cracks"
+        },
+        {
+            "start": 53900,
+            "end": 54340,
+            "word": "appearing"
+        },
+        {
+            "start": 54340,
+            "end": 54700,
+            "word": "beneath"
+        },
+        {
+            "start": 54700,
+            "end": 54820,
+            "word": "the"
+        },
+        {
+            "start": 54820,
+            "end": 55180,
+            "word": "surface"
+        },
+        {
+            "start": 55180,
+            "end": 55300,
+            "word": "of"
+        },
+        {
+            "start": 55300,
+            "end": 55420,
+            "word": "the"
+        },
+        {
+            "start": 55420,
+            "end": 55820,
+            "word": "AI"
+        },
+        {
+            "start": 55820,
+            "end": 56260,
+            "word": "boom?"
+        },
+        {
+            "start": 56890,
+            "end": 57050,
+            "word": "Many"
+        },
+        {
+            "start": 57050,
+            "end": 57250,
+            "word": "are"
+        },
+        {
+            "start": 57250,
+            "end": 57610,
+            "word": "drawing"
+        },
+        {
+            "start": 57610,
+            "end": 57930,
+            "word": "stark"
+        },
+        {
+            "start": 57930,
+            "end": 58490,
+            "word": "parallels"
+        },
+        {
+            "start": 58490,
+            "end": 58650,
+            "word": "to"
+        },
+        {
+            "start": 58650,
+            "end": 58810,
+            "word": "the"
+        },
+        {
+            "start": 58810,
+            "end": 59090,
+            "word": "dot"
+        },
+        {
+            "start": 59090,
+            "end": 59330,
+            "word": "com"
+        },
+        {
+            "start": 59330,
+            "end": 59770,
+            "word": "era,"
+        },
+        {
+            "start": 59850,
+            "end": 60210,
+            "word": "where"
+        },
+        {
+            "start": 60210,
+            "end": 60930,
+            "word": "exuberance"
+        },
+        {
+            "start": 60930,
+            "end": 61490,
+            "word": "overtook"
+        },
+        {
+            "start": 61490,
+            "end": 62090,
+            "word": "reality"
+        },
+        {
+            "start": 62090,
+            "end": 62450,
+            "word": "and"
+        },
+        {
+            "start": 62450,
+            "end": 62770,
+            "word": "companies"
+        },
+        {
+            "start": 62770,
+            "end": 63050,
+            "word": "with"
+        },
+        {
+            "start": 63050,
+            "end": 63290,
+            "word": "little"
+        },
+        {
+            "start": 63290,
+            "end": 63490,
+            "word": "more"
+        },
+        {
+            "start": 63490,
+            "end": 63650,
+            "word": "than"
+        },
+        {
+            "start": 63650,
+            "end": 63810,
+            "word": "a"
+        },
+        {
+            "start": 63810,
+            "end": 64090,
+            "word": "website"
+        },
+        {
+            "start": 64090,
+            "end": 64450,
+            "word": "were"
+        },
+        {
+            "start": 64450,
+            "end": 64890,
+            "word": "valued"
+        },
+        {
+            "start": 64890,
+            "end": 65010,
+            "word": "in"
+        },
+        {
+            "start": 65010,
+            "end": 65170,
+            "word": "the"
+        },
+        {
+            "start": 65170,
+            "end": 65770,
+            "word": "billions."
+        },
+        {
+            "start": 66090,
+            "end": 66370,
+            "word": "But"
+        },
+        {
+            "start": 66370,
+            "end": 66730,
+            "word": "here's"
+        },
+        {
+            "start": 66730,
+            "end": 66850,
+            "word": "the"
+        },
+        {
+            "start": 66850,
+            "end": 67130,
+            "word": "thing."
+        },
+        {
+            "start": 67130,
+            "end": 67530,
+            "word": "It's"
+        },
+        {
+            "start": 67530,
+            "end": 67610,
+            "word": "not"
+        },
+        {
+            "start": 67610,
+            "end": 67770,
+            "word": "just"
+        },
+        {
+            "start": 67770,
+            "end": 67970,
+            "word": "a"
+        },
+        {
+            "start": 67970,
+            "end": 68330,
+            "word": "feeling"
+        },
+        {
+            "start": 68330,
+            "end": 68570,
+            "word": "this"
+        },
+        {
+            "start": 68570,
+            "end": 68890,
+            "word": "time."
+        },
+        {
+            "start": 68890,
+            "end": 69290,
+            "word": "We're"
+        },
+        {
+            "start": 69290,
+            "end": 69530,
+            "word": "seeing"
+        },
+        {
+            "start": 69530,
+            "end": 70050,
+            "word": "concrete"
+        },
+        {
+            "start": 70050,
+            "end": 70650,
+            "word": "indicators."
+        },
+        {
+            "start": 71450,
+            "end": 71930,
+            "word": "Remember"
+        },
+        {
+            "start": 71930,
+            "end": 72130,
+            "word": "all"
+        },
+        {
+            "start": 72130,
+            "end": 72290,
+            "word": "the"
+        },
+        {
+            "start": 72290,
+            "end": 72570,
+            "word": "hype"
+        },
+        {
+            "start": 72570,
+            "end": 72809,
+            "word": "around"
+        },
+        {
+            "start": 72809,
+            "end": 73010,
+            "word": "the"
+        },
+        {
+            "start": 73010,
+            "end": 73210,
+            "word": "next"
+        },
+        {
+            "start": 73210,
+            "end": 73730,
+            "word": "generation"
+        },
+        {
+            "start": 73730,
+            "end": 73890,
+            "word": "of"
+        },
+        {
+            "start": 73890,
+            "end": 74330,
+            "word": "AI"
+        },
+        {
+            "start": 74330,
+            "end": 74810,
+            "word": "models?"
+        },
+        {
+            "start": 75210,
+            "end": 75490,
+            "word": "Well,"
+        },
+        {
+            "start": 75490,
+            "end": 75690,
+            "word": "when"
+        },
+        {
+            "start": 75690,
+            "end": 76570,
+            "word": "GPT5"
+        },
+        {
+            "start": 76570,
+            "end": 77090,
+            "word": "finally"
+        },
+        {
+            "start": 77090,
+            "end": 77530,
+            "word": "arrived,"
+        },
+        {
+            "start": 77610,
+            "end": 77890,
+            "word": "the"
+        },
+        {
+            "start": 77890,
+            "end": 78290,
+            "word": "reaction"
+        },
+        {
+            "start": 78290,
+            "end": 78610,
+            "word": "wasn't"
+        },
+        {
+            "start": 78610,
+            "end": 78770,
+            "word": "a"
+        },
+        {
+            "start": 78770,
+            "end": 79010,
+            "word": "roar"
+        },
+        {
+            "start": 79010,
+            "end": 79170,
+            "word": "of"
+        },
+        {
+            "start": 79170,
+            "end": 79690,
+            "word": "innovation,"
+        },
+        {
+            "start": 79690,
+            "end": 80010,
+            "word": "but"
+        },
+        {
+            "start": 80010,
+            "end": 80210,
+            "word": "a"
+        },
+        {
+            "start": 80210,
+            "end": 80730,
+            "word": "collective"
+        },
+        {
+            "start": 80730,
+            "end": 81210,
+            "word": "shrug."
+        },
+        {
+            "start": 81450,
+            "end": 81770,
+            "word": "Its"
+        },
+        {
+            "start": 81770,
+            "end": 82090,
+            "word": "performance,"
+        },
+        {
+            "start": 82330,
+            "end": 82850,
+            "word": "frankly,"
+        },
+        {
+            "start": 82850,
+            "end": 83090,
+            "word": "was"
+        },
+        {
+            "start": 83090,
+            "end": 83850,
+            "word": "underwhelming."
+        },
+        {
+            "start": 84650,
+            "end": 84770,
+            "word": "And"
+        },
+        {
+            "start": 84770,
+            "end": 85010,
+            "word": "that,"
+        },
+        {
+            "start": 85010,
+            "end": 85690,
+            "word": "surprisingly,"
+        },
+        {
+            "start": 85690,
+            "end": 85890,
+            "word": "has"
+        },
+        {
+            "start": 85890,
+            "end": 86050,
+            "word": "been"
+        },
+        {
+            "start": 86050,
+            "end": 86210,
+            "word": "a"
+        },
+        {
+            "start": 86210,
+            "end": 86570,
+            "word": "massive"
+        },
+        {
+            "start": 86570,
+            "end": 87090,
+            "word": "catalyst"
+        },
+        {
+            "start": 87090,
+            "end": 87250,
+            "word": "for"
+        },
+        {
+            "start": 87250,
+            "end": 87530,
+            "word": "market"
+        },
+        {
+            "start": 87530,
+            "end": 88170,
+            "word": "jitters,"
+        },
+        {
+            "start": 88330,
+            "end": 88770,
+            "word": "leaving"
+        },
+        {
+            "start": 88770,
+            "end": 88970,
+            "word": "many"
+        },
+        {
+            "start": 88970,
+            "end": 89170,
+            "word": "to"
+        },
+        {
+            "start": 89170,
+            "end": 89410,
+            "word": "wonder"
+        },
+        {
+            "start": 89410,
+            "end": 89610,
+            "word": "if"
+        },
+        {
+            "start": 89610,
+            "end": 89890,
+            "word": "we're"
+        },
+        {
+            "start": 89890,
+            "end": 90090,
+            "word": "hitting"
+        },
+        {
+            "start": 90090,
+            "end": 90210,
+            "word": "a"
+        },
+        {
+            "start": 90210,
+            "end": 90730,
+            "word": "plateau"
+        },
+        {
+            "start": 90730,
+            "end": 91050,
+            "word": "sooner"
+        },
+        {
+            "start": 91050,
+            "end": 91170,
+            "word": "than"
+        },
+        {
+            "start": 91170,
+            "end": 91610,
+            "word": "anyone"
+        },
+        {
+            "start": 91610,
+            "end": 91930,
+            "word": "expected."
+        },
+        {
+            "start": 92730,
+            "end": 93010,
+            "word": "But"
+        },
+        {
+            "start": 93010,
+            "end": 93170,
+            "word": "it"
+        },
+        {
+            "start": 93170,
+            "end": 93450,
+            "word": "gets"
+        },
+        {
+            "start": 93450,
+            "end": 93850,
+            "word": "worse."
+        },
+        {
+            "start": 94010,
+            "end": 94410,
+            "word": "It's"
+        },
+        {
+            "start": 94410,
+            "end": 94530,
+            "word": "not"
+        },
+        {
+            "start": 94530,
+            "end": 94690,
+            "word": "just"
+        },
+        {
+            "start": 94690,
+            "end": 94850,
+            "word": "the"
+        },
+        {
+            "start": 94850,
+            "end": 95330,
+            "word": "headline"
+        },
+        {
+            "start": 95330,
+            "end": 95810,
+            "word": "grabbing"
+        },
+        {
+            "start": 95810,
+            "end": 96250,
+            "word": "models."
+        },
+        {
+            "start": 96730,
+            "end": 97130,
+            "word": "Companies"
+        },
+        {
+            "start": 97210,
+            "end": 97690,
+            "word": "rushing"
+        },
+        {
+            "start": 97690,
+            "end": 97850,
+            "word": "to"
+        },
+        {
+            "start": 97850,
+            "end": 98250,
+            "word": "implement"
+        },
+        {
+            "start": 98250,
+            "end": 98850,
+            "word": "generative"
+        },
+        {
+            "start": 98850,
+            "end": 99370,
+            "word": "AI"
+        },
+        {
+            "start": 99370,
+            "end": 99650,
+            "word": "are"
+        },
+        {
+            "start": 99650,
+            "end": 99930,
+            "word": "facing"
+        },
+        {
+            "start": 99930,
+            "end": 100170,
+            "word": "a"
+        },
+        {
+            "start": 100170,
+            "end": 100650,
+            "word": "brutal"
+        },
+        {
+            "start": 101530,
+            "end": 101850,
+            "word": "a"
+        },
+        {
+            "start": 101850,
+            "end": 102130,
+            "word": "high"
+        },
+        {
+            "start": 102130,
+            "end": 102530,
+            "word": "failure"
+        },
+        {
+            "start": 102530,
+            "end": 102730,
+            "word": "rate"
+        },
+        {
+            "start": 102730,
+            "end": 102970,
+            "word": "for"
+        },
+        {
+            "start": 102970,
+            "end": 103410,
+            "word": "pilot"
+        },
+        {
+            "start": 103410,
+            "end": 104010,
+            "word": "projects."
+        },
+        {
+            "start": 104490,
+            "end": 105010,
+            "word": "Imagine"
+        },
+        {
+            "start": 105010,
+            "end": 105570,
+            "word": "investing"
+        },
+        {
+            "start": 105570,
+            "end": 106170,
+            "word": "millions"
+        },
+        {
+            "start": 106490,
+            "end": 106810,
+            "word": "only"
+        },
+        {
+            "start": 106810,
+            "end": 107010,
+            "word": "for"
+        },
+        {
+            "start": 107010,
+            "end": 107210,
+            "word": "your"
+        },
+        {
+            "start": 107210,
+            "end": 107530,
+            "word": "grand"
+        },
+        {
+            "start": 107530,
+            "end": 108050,
+            "word": "AI"
+        },
+        {
+            "start": 108050,
+            "end": 108530,
+            "word": "experiment"
+        },
+        {
+            "start": 108530,
+            "end": 108690,
+            "word": "to"
+        },
+        {
+            "start": 108690,
+            "end": 109090,
+            "word": "fizzle"
+        },
+        {
+            "start": 109090,
+            "end": 109370,
+            "word": "out."
+        },
+        {
+            "start": 110020,
+            "end": 110140,
+            "word": "This"
+        },
+        {
+            "start": 110140,
+            "end": 110460,
+            "word": "isn't"
+        },
+        {
+            "start": 110460,
+            "end": 110620,
+            "word": "just"
+        },
+        {
+            "start": 110620,
+            "end": 110860,
+            "word": "about"
+        },
+        {
+            "start": 110860,
+            "end": 111700,
+            "word": "disappointment."
+        },
+        {
+            "start": 111780,
+            "end": 112100,
+            "word": "It's"
+        },
+        {
+            "start": 112100,
+            "end": 112260,
+            "word": "about"
+        },
+        {
+            "start": 112260,
+            "end": 112780,
+            "word": "wasted"
+        },
+        {
+            "start": 112780,
+            "end": 113060,
+            "word": "capital"
+        },
+        {
+            "start": 113060,
+            "end": 113380,
+            "word": "and"
+        },
+        {
+            "start": 113380,
+            "end": 113900,
+            "word": "shattered"
+        },
+        {
+            "start": 113900,
+            "end": 114340,
+            "word": "confidence."
+        },
+        {
+            "start": 115220,
+            "end": 115500,
+            "word": "Now,"
+        },
+        {
+            "start": 115500,
+            "end": 115660,
+            "word": "you"
+        },
+        {
+            "start": 115660,
+            "end": 115820,
+            "word": "might"
+        },
+        {
+            "start": 115820,
+            "end": 116020,
+            "word": "think"
+        },
+        {
+            "start": 116020,
+            "end": 116260,
+            "word": "these"
+        },
+        {
+            "start": 116260,
+            "end": 116420,
+            "word": "are"
+        },
+        {
+            "start": 116420,
+            "end": 116580,
+            "word": "just"
+        },
+        {
+            "start": 116580,
+            "end": 116940,
+            "word": "growing"
+        },
+        {
+            "start": 116940,
+            "end": 117340,
+            "word": "pains,"
+        },
+        {
+            "start": 117340,
+            "end": 117700,
+            "word": "right?"
+        },
+        {
+            "start": 118180,
+            "end": 118500,
+            "word": "But"
+        },
+        {
+            "start": 118500,
+            "end": 118700,
+            "word": "what"
+        },
+        {
+            "start": 118700,
+            "end": 118860,
+            "word": "if"
+        },
+        {
+            "start": 118860,
+            "end": 119020,
+            "word": "the"
+        },
+        {
+            "start": 119020,
+            "end": 119260,
+            "word": "very"
+        },
+        {
+            "start": 119260,
+            "end": 119900,
+            "word": "architects"
+        },
+        {
+            "start": 119900,
+            "end": 120060,
+            "word": "of"
+        },
+        {
+            "start": 120060,
+            "end": 120420,
+            "word": "AI"
+        },
+        {
+            "start": 120420,
+            "end": 120620,
+            "word": "are"
+        },
+        {
+            "start": 120620,
+            "end": 120820,
+            "word": "saying"
+        },
+        {
+            "start": 120820,
+            "end": 121100,
+            "word": "we've"
+        },
+        {
+            "start": 121100,
+            "end": 121220,
+            "word": "got"
+        },
+        {
+            "start": 121220,
+            "end": 121340,
+            "word": "it"
+        },
+        {
+            "start": 121340,
+            "end": 121540,
+            "word": "all"
+        },
+        {
+            "start": 121540,
+            "end": 121940,
+            "word": "wrong?"
+        },
+        {
+            "start": 122500,
+            "end": 122940,
+            "word": "That's"
+        },
+        {
+            "start": 122940,
+            "end": 123340,
+            "word": "exactly"
+        },
+        {
+            "start": 123340,
+            "end": 123540,
+            "word": "what"
+        },
+        {
+            "start": 123540,
+            "end": 124060,
+            "word": "prominent"
+        },
+        {
+            "start": 124060,
+            "end": 124460,
+            "word": "AI"
+        },
+        {
+            "start": 124460,
+            "end": 125060,
+            "word": "researcher"
+        },
+        {
+            "start": 125060,
+            "end": 125380,
+            "word": "Gary"
+        },
+        {
+            "start": 125380,
+            "end": 125979,
+            "word": "Marcus"
+        },
+        {
+            "start": 125979,
+            "end": 126580,
+            "word": "argues."
+        },
+        {
+            "start": 127060,
+            "end": 127460,
+            "word": "He's"
+        },
+        {
+            "start": 127460,
+            "end": 127620,
+            "word": "been"
+        },
+        {
+            "start": 127620,
+            "end": 128140,
+            "word": "vocal,"
+        },
+        {
+            "start": 128140,
+            "end": 128540,
+            "word": "calling"
+        },
+        {
+            "start": 128540,
+            "end": 128740,
+            "word": "out"
+        },
+        {
+            "start": 128740,
+            "end": 128940,
+            "word": "that"
+        },
+        {
+            "start": 128940,
+            "end": 129100,
+            "word": "the"
+        },
+        {
+            "start": 129100,
+            "end": 129700,
+            "word": "expectations"
+        },
+        {
+            "start": 129700,
+            "end": 129940,
+            "word": "of"
+        },
+        {
+            "start": 129940,
+            "end": 130500,
+            "word": "artificial"
+        },
+        {
+            "start": 130500,
+            "end": 130820,
+            "word": "general"
+        },
+        {
+            "start": 130820,
+            "end": 131620,
+            "word": "intelligence,"
+        },
+        {
+            "start": 131860,
+            "end": 132180,
+            "word": "or"
+        },
+        {
+            "start": 132180,
+            "end": 132900,
+            "word": "AGI,"
+        },
+        {
+            "start": 132980,
+            "end": 133260,
+            "word": "are"
+        },
+        {
+            "start": 133260,
+            "end": 133420,
+            "word": "not"
+        },
+        {
+            "start": 133420,
+            "end": 133660,
+            "word": "just"
+        },
+        {
+            "start": 133660,
+            "end": 134260,
+            "word": "premature,"
+        },
+        {
+            "start": 134660,
+            "end": 135020,
+            "word": "but"
+        },
+        {
+            "start": 135020,
+            "end": 135260,
+            "word": "based"
+        },
+        {
+            "start": 135260,
+            "end": 135460,
+            "word": "on"
+        },
+        {
+            "start": 135460,
+            "end": 135620,
+            "word": "a"
+        },
+        {
+            "start": 135620,
+            "end": 136140,
+            "word": "fundamental"
+        },
+        {
+            "start": 136140,
+            "end": 136940,
+            "word": "misunderstanding"
+        },
+        {
+            "start": 136940,
+            "end": 137100,
+            "word": "of"
+        },
+        {
+            "start": 137100,
+            "end": 137300,
+            "word": "what"
+        },
+        {
+            "start": 137300,
+            "end": 137620,
+            "word": "current"
+        },
+        {
+            "start": 137620,
+            "end": 138100,
+            "word": "AI"
+        },
+        {
+            "start": 138100,
+            "end": 138340,
+            "word": "can"
+        },
+        {
+            "start": 138340,
+            "end": 138620,
+            "word": "actually"
+        },
+        {
+            "start": 138620,
+            "end": 138980,
+            "word": "do."
+        },
+        {
+            "start": 139610,
+            "end": 139770,
+            "word": "He"
+        },
+        {
+            "start": 139770,
+            "end": 140290,
+            "word": "suggests"
+        },
+        {
+            "start": 140290,
+            "end": 140530,
+            "word": "we're"
+        },
+        {
+            "start": 140530,
+            "end": 140770,
+            "word": "building"
+        },
+        {
+            "start": 140770,
+            "end": 141290,
+            "word": "castles"
+        },
+        {
+            "start": 141290,
+            "end": 141530,
+            "word": "on"
+        },
+        {
+            "start": 141530,
+            "end": 142010,
+            "word": "sand,"
+        },
+        {
+            "start": 142410,
+            "end": 143010,
+            "word": "confusing"
+        },
+        {
+            "start": 143010,
+            "end": 143450,
+            "word": "pattern"
+        },
+        {
+            "start": 143450,
+            "end": 143970,
+            "word": "recognition"
+        },
+        {
+            "start": 143970,
+            "end": 144170,
+            "word": "with"
+        },
+        {
+            "start": 144170,
+            "end": 144490,
+            "word": "true"
+        },
+        {
+            "start": 144490,
+            "end": 145210,
+            "word": "intelligence."
+        },
+        {
+            "start": 145930,
+            "end": 146250,
+            "word": "So"
+        },
+        {
+            "start": 146250,
+            "end": 146490,
+            "word": "what"
+        },
+        {
+            "start": 146490,
+            "end": 146650,
+            "word": "are"
+        },
+        {
+            "start": 146650,
+            "end": 146770,
+            "word": "the"
+        },
+        {
+            "start": 146770,
+            "end": 146970,
+            "word": "big"
+        },
+        {
+            "start": 146970,
+            "end": 147290,
+            "word": "players"
+        },
+        {
+            "start": 147290,
+            "end": 147570,
+            "word": "on"
+        },
+        {
+            "start": 147570,
+            "end": 147810,
+            "word": "Wall"
+        },
+        {
+            "start": 147810,
+            "end": 148090,
+            "word": "street"
+        },
+        {
+            "start": 148090,
+            "end": 148410,
+            "word": "saying"
+        },
+        {
+            "start": 148410,
+            "end": 148650,
+            "word": "about"
+        },
+        {
+            "start": 148650,
+            "end": 148850,
+            "word": "all"
+        },
+        {
+            "start": 148850,
+            "end": 149130,
+            "word": "this?"
+        },
+        {
+            "start": 149850,
+            "end": 150210,
+            "word": "It's"
+        },
+        {
+            "start": 150210,
+            "end": 150330,
+            "word": "a"
+        },
+        {
+            "start": 150330,
+            "end": 150770,
+            "word": "divided"
+        },
+        {
+            "start": 150770,
+            "end": 151130,
+            "word": "room."
+        },
+        {
+            "start": 151370,
+            "end": 151650,
+            "word": "On"
+        },
+        {
+            "start": 151650,
+            "end": 151810,
+            "word": "one"
+        },
+        {
+            "start": 151810,
+            "end": 152050,
+            "word": "hand,"
+        },
+        {
+            "start": 152050,
+            "end": 152290,
+            "word": "you"
+        },
+        {
+            "start": 152290,
+            "end": 152450,
+            "word": "have"
+        },
+        {
+            "start": 152450,
+            "end": 152930,
+            "word": "analysts"
+        },
+        {
+            "start": 152930,
+            "end": 153570,
+            "word": "cautiously"
+        },
+        {
+            "start": 153570,
+            "end": 154410,
+            "word": "optimistic,"
+        },
+        {
+            "start": 154650,
+            "end": 155050,
+            "word": "holding"
+        },
+        {
+            "start": 155050,
+            "end": 155409,
+            "word": "onto"
+        },
+        {
+            "start": 155409,
+            "end": 155569,
+            "word": "the"
+        },
+        {
+            "start": 155569,
+            "end": 155770,
+            "word": "long"
+        },
+        {
+            "start": 155770,
+            "end": 156050,
+            "word": "term"
+        },
+        {
+            "start": 156050,
+            "end": 156410,
+            "word": "vision"
+        },
+        {
+            "start": 156410,
+            "end": 156570,
+            "word": "of"
+        },
+        {
+            "start": 156570,
+            "end": 157010,
+            "word": "AI"
+        },
+        {
+            "start": 157010,
+            "end": 157410,
+            "word": "driving"
+        },
+        {
+            "start": 157410,
+            "end": 158010,
+            "word": "efficiency"
+        },
+        {
+            "start": 158010,
+            "end": 158210,
+            "word": "and"
+        },
+        {
+            "start": 158210,
+            "end": 159010,
+            "word": "productivity"
+        },
+        {
+            "start": 159010,
+            "end": 159370,
+            "word": "across"
+        },
+        {
+            "start": 159450,
+            "end": 160010,
+            "word": "industries."
+        },
+        {
+            "start": 160570,
+            "end": 160850,
+            "word": "They"
+        },
+        {
+            "start": 160850,
+            "end": 161050,
+            "word": "see"
+        },
+        {
+            "start": 161050,
+            "end": 161290,
+            "word": "this"
+        },
+        {
+            "start": 161290,
+            "end": 161490,
+            "word": "as"
+        },
+        {
+            "start": 161490,
+            "end": 161610,
+            "word": "a"
+        },
+        {
+            "start": 161610,
+            "end": 162050,
+            "word": "necessary"
+        },
+        {
+            "start": 162050,
+            "end": 162330,
+            "word": "investment"
+        },
+        {
+            "start": 162570,
+            "end": 162850,
+            "word": "for"
+        },
+        {
+            "start": 162850,
+            "end": 163130,
+            "word": "future"
+        },
+        {
+            "start": 163210,
+            "end": 163610,
+            "word": "growth."
+        },
+        {
+            "start": 163850,
+            "end": 164210,
+            "word": "And"
+        },
+        {
+            "start": 164210,
+            "end": 164450,
+            "word": "that"
+        },
+        {
+            "start": 164450,
+            "end": 164770,
+            "word": "sounds"
+        },
+        {
+            "start": 164770,
+            "end": 165330,
+            "word": "reassuring,"
+        },
+        {
+            "start": 165330,
+            "end": 165690,
+            "word": "doesn't"
+        },
+        {
+            "start": 165690,
+            "end": 165930,
+            "word": "it?"
+        },
+        {
+            "start": 166540,
+            "end": 166660,
+            "word": "But"
+        },
+        {
+            "start": 166660,
+            "end": 166940,
+            "word": "here's"
+        },
+        {
+            "start": 166940,
+            "end": 167060,
+            "word": "the"
+        },
+        {
+            "start": 167060,
+            "end": 167340,
+            "word": "thing."
+        },
+        {
+            "start": 167500,
+            "end": 167860,
+            "word": "Others,"
+        },
+        {
+            "start": 167860,
+            "end": 168180,
+            "word": "like"
+        },
+        {
+            "start": 168180,
+            "end": 168740,
+            "word": "Deutsche"
+        },
+        {
+            "start": 168740,
+            "end": 169100,
+            "word": "Bank's"
+        },
+        {
+            "start": 169100,
+            "end": 169540,
+            "word": "Torsten"
+        },
+        {
+            "start": 169540,
+            "end": 169980,
+            "word": "Slok,"
+        },
+        {
+            "start": 169980,
+            "end": 170260,
+            "word": "are"
+        },
+        {
+            "start": 170260,
+            "end": 170580,
+            "word": "sounding"
+        },
+        {
+            "start": 170580,
+            "end": 170700,
+            "word": "a"
+        },
+        {
+            "start": 170700,
+            "end": 170860,
+            "word": "much"
+        },
+        {
+            "start": 170860,
+            "end": 171300,
+            "word": "louder"
+        },
+        {
+            "start": 171300,
+            "end": 171820,
+            "word": "alarm."
+        },
+        {
+            "start": 172140,
+            "end": 172580,
+            "word": "He's"
+        },
+        {
+            "start": 172580,
+            "end": 172980,
+            "word": "openly"
+        },
+        {
+            "start": 172980,
+            "end": 173300,
+            "word": "warning"
+        },
+        {
+            "start": 173300,
+            "end": 173620,
+            "word": "about"
+        },
+        {
+            "start": 173620,
+            "end": 174140,
+            "word": "massively"
+        },
+        {
+            "start": 174140,
+            "end": 174860,
+            "word": "overvalued"
+        },
+        {
+            "start": 174860,
+            "end": 175180,
+            "word": "tech"
+        },
+        {
+            "start": 175180,
+            "end": 175660,
+            "word": "stocks,"
+        },
+        {
+            "start": 175660,
+            "end": 176140,
+            "word": "fueled"
+        },
+        {
+            "start": 176140,
+            "end": 176340,
+            "word": "by"
+        },
+        {
+            "start": 176340,
+            "end": 176500,
+            "word": "the"
+        },
+        {
+            "start": 176500,
+            "end": 176860,
+            "word": "AI"
+        },
+        {
+            "start": 176860,
+            "end": 177500,
+            "word": "craze."
+        },
+        {
+            "start": 177580,
+            "end": 177940,
+            "word": "And"
+        },
+        {
+            "start": 177940,
+            "end": 178220,
+            "word": "it's"
+        },
+        {
+            "start": 178220,
+            "end": 178340,
+            "word": "not"
+        },
+        {
+            "start": 178340,
+            "end": 178580,
+            "word": "just"
+        },
+        {
+            "start": 178580,
+            "end": 178940,
+            "word": "stock"
+        },
+        {
+            "start": 178940,
+            "end": 179500,
+            "word": "prices."
+        },
+        {
+            "start": 179660,
+            "end": 180060,
+            "word": "Companies"
+        },
+        {
+            "start": 180060,
+            "end": 180340,
+            "word": "are"
+        },
+        {
+            "start": 180340,
+            "end": 180660,
+            "word": "pouring"
+        },
+        {
+            "start": 180660,
+            "end": 181220,
+            "word": "staggering"
+        },
+        {
+            "start": 181220,
+            "end": 181580,
+            "word": "amounts"
+        },
+        {
+            "start": 181580,
+            "end": 181700,
+            "word": "of"
+        },
+        {
+            "start": 181700,
+            "end": 181900,
+            "word": "money"
+        },
+        {
+            "start": 181900,
+            "end": 182219,
+            "word": "into"
+        },
+        {
+            "start": 182219,
+            "end": 182580,
+            "word": "building"
+        },
+        {
+            "start": 182580,
+            "end": 182820,
+            "word": "new"
+        },
+        {
+            "start": 182820,
+            "end": 183100,
+            "word": "data"
+        },
+        {
+            "start": 183100,
+            "end": 183660,
+            "word": "centers,"
+        },
+        {
+            "start": 184220,
+            "end": 184500,
+            "word": "the"
+        },
+        {
+            "start": 184500,
+            "end": 184900,
+            "word": "physical"
+        },
+        {
+            "start": 184900,
+            "end": 185620,
+            "word": "infrastructure"
+        },
+        {
+            "start": 185620,
+            "end": 185820,
+            "word": "for"
+        },
+        {
+            "start": 185820,
+            "end": 186060,
+            "word": "this"
+        },
+        {
+            "start": 186060,
+            "end": 186500,
+            "word": "AI"
+        },
+        {
+            "start": 186500,
+            "end": 186940,
+            "word": "boom."
+        },
+        {
+            "start": 187260,
+            "end": 187660,
+            "word": "It's"
+        },
+        {
+            "start": 187660,
+            "end": 187780,
+            "word": "an"
+        },
+        {
+            "start": 187780,
+            "end": 188060,
+            "word": "investment"
+        },
+        {
+            "start": 188140,
+            "end": 188580,
+            "word": "spree"
+        },
+        {
+            "start": 188580,
+            "end": 188820,
+            "word": "that"
+        },
+        {
+            "start": 188820,
+            "end": 188980,
+            "word": "for"
+        },
+        {
+            "start": 188980,
+            "end": 189260,
+            "word": "many"
+        },
+        {
+            "start": 189260,
+            "end": 189660,
+            "word": "feels"
+        },
+        {
+            "start": 189660,
+            "end": 190180,
+            "word": "eerily"
+        },
+        {
+            "start": 190180,
+            "end": 190740,
+            "word": "reminiscent"
+        },
+        {
+            "start": 190740,
+            "end": 190860,
+            "word": "of"
+        },
+        {
+            "start": 190860,
+            "end": 191500,
+            "word": "the.com"
+        },
+        {
+            "start": 191500,
+            "end": 192020,
+            "word": "bubble's"
+        },
+        {
+            "start": 192020,
+            "end": 192740,
+            "word": "infrastructure"
+        },
+        {
+            "start": 192740,
+            "end": 193420,
+            "word": "overbuild,"
+        },
+        {
+            "start": 193580,
+            "end": 193900,
+            "word": "where"
+        },
+        {
+            "start": 193900,
+            "end": 194540,
+            "word": "capacity"
+        },
+        {
+            "start": 194540,
+            "end": 194860,
+            "word": "far"
+        },
+        {
+            "start": 194860,
+            "end": 195420,
+            "word": "outstripped"
+        },
+        {
+            "start": 195420,
+            "end": 195740,
+            "word": "demand,"
+        },
+        {
+            "start": 196220,
+            "end": 196460,
+            "word": "leading"
+        },
+        {
+            "start": 196460,
+            "end": 196580,
+            "word": "to"
+        },
+        {
+            "start": 196580,
+            "end": 196940,
+            "word": "massive"
+        },
+        {
+            "start": 196940,
+            "end": 197500,
+            "word": "losses."
+        },
+        {
+            "start": 198060,
+            "end": 198340,
+            "word": "So"
+        },
+        {
+            "start": 198340,
+            "end": 198540,
+            "word": "with"
+        },
+        {
+            "start": 198540,
+            "end": 199220,
+            "word": "underwhelming"
+        },
+        {
+            "start": 199220,
+            "end": 199660,
+            "word": "tech,"
+        },
+        {
+            "start": 199740,
+            "end": 200220,
+            "word": "failed"
+        },
+        {
+            "start": 200220,
+            "end": 200660,
+            "word": "corporate"
+        },
+        {
+            "start": 200660,
+            "end": 201180,
+            "word": "pilots,"
+        },
+        {
+            "start": 201420,
+            "end": 201940,
+            "word": "experts"
+        },
+        {
+            "start": 201940,
+            "end": 202340,
+            "word": "warning"
+        },
+        {
+            "start": 202340,
+            "end": 202700,
+            "word": "against"
+        },
+        {
+            "start": 202700,
+            "end": 203180,
+            "word": "hype,"
+        },
+        {
+            "start": 203180,
+            "end": 203460,
+            "word": "and"
+        },
+        {
+            "start": 203460,
+            "end": 203780,
+            "word": "Wall"
+        },
+        {
+            "start": 203780,
+            "end": 204060,
+            "word": "street"
+        },
+        {
+            "start": 204060,
+            "end": 204540,
+            "word": "itself"
+        },
+        {
+            "start": 204540,
+            "end": 205020,
+            "word": "divided,"
+        },
+        {
+            "start": 205420,
+            "end": 205700,
+            "word": "the"
+        },
+        {
+            "start": 205700,
+            "end": 205940,
+            "word": "question"
+        },
+        {
+            "start": 205940,
+            "end": 206380,
+            "word": "isn't"
+        },
+        {
+            "start": 206380,
+            "end": 206700,
+            "word": "just"
+        },
+        {
+            "start": 206700,
+            "end": 206980,
+            "word": "is"
+        },
+        {
+            "start": 206980,
+            "end": 207140,
+            "word": "there"
+        },
+        {
+            "start": 207140,
+            "end": 207300,
+            "word": "an"
+        },
+        {
+            "start": 207300,
+            "end": 207740,
+            "word": "AI"
+        },
+        {
+            "start": 207740,
+            "end": 208220,
+            "word": "bubble?"
+        },
+        {
+            "start": 208300,
+            "end": 208580,
+            "word": "But"
+        },
+        {
+            "start": 208580,
+            "end": 208740,
+            "word": "are"
+        },
+        {
+            "start": 208740,
+            "end": 208900,
+            "word": "we"
+        },
+        {
+            "start": 208900,
+            "end": 209180,
+            "word": "already"
+        },
+        {
+            "start": 209180,
+            "end": 209540,
+            "word": "seeing"
+        },
+        {
+            "start": 209540,
+            "end": 209700,
+            "word": "it"
+        },
+        {
+            "start": 209700,
+            "end": 210300,
+            "word": "deflate?"
+        },
+        {
+            "start": 210300,
+            "end": 210660,
+            "word": "And"
+        },
+        {
+            "start": 210660,
+            "end": 210940,
+            "word": "what"
+        },
+        {
+            "start": 210940,
+            "end": 211180,
+            "word": "comes"
+        },
+        {
+            "start": 211180,
+            "end": 211460,
+            "word": "next"
+        },
+        {
+            "start": 211460,
+            "end": 211660,
+            "word": "for"
+        },
+        {
+            "start": 211660,
+            "end": 211820,
+            "word": "this"
+        },
+        {
+            "start": 211820,
+            "end": 212700,
+            "word": "revolutionary"
+        },
+        {
+            "start": 212700,
+            "end": 213020,
+            "word": "yet"
+        },
+        {
+            "start": 213020,
+            "end": 213420,
+            "word": "perhaps"
+        },
+        {
+            "start": 213420,
+            "end": 214220,
+            "word": "overhyped"
+        },
+        {
+            "start": 214220,
+            "end": 214540,
+            "word": "technology?"
+        }
+    ]
+}

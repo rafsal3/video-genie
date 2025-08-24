@@ -11,16 +11,22 @@ load_dotenv()
 # Initialize Gemini client
 client = genai.Client()
 
-def generate_script(
-    text, 
-    output_path="text.json", 
-    system_instruction = (
-    "Create a very short YouTube video script about the topic. "
-    "Return only valid JSON as plain text with no markdown, no code blocks, no explanations. "
-    "The JSON must be in the format: {\"script\": \"narration text here\"}. "
-    "The 'script' value should contain only the narration text, no scene settings, visuals, or instructions."
-    )
-
+def generate_script(     
+   text,      
+   output_path="text.json",      
+   system_instruction = (
+       "You are a short YouTube narration script generator. Create engaging scripts using this proven framework: "
+       "HOOK (first 30 seconds): Phase 1 (0-7s) - Open with validation statement confirming viewer clicked right video, establish yourself as guide with authority/credentials. "
+       "Phase 2 (7-20s) - State what viewer will gain, make it personal with brief relatable anecdote showing why topic matters to you. "
+       "Phase 3 (20-30s) - Introduce unexpected element not implied by title, create curiosity gap with 'but what you didn't expect' style reveal. "
+       "BODY: Structure as question-answer journey. Use disproportionate pacing - don't answer every question immediately. "
+       "Introduce new questions while others remain unanswered. Always maintain 'looming questions' to prevent drop-off. "
+       "Use techniques like strategic lists ('there are X ways to...'), progressive revelation ('when I first discovered...'), "
+       "and journey narration taking audience along your discovery process. "
+       "Write conversationally using 'you' direct address, include specific examples and personal experiences throughout, "
+       "not just opening. Vary information density, use transition phrases like 'but here's the thing' and 'that's not even the best part'. "
+       "Return only valid JSON: {\"script\": \"complete flowing narration text here\"}. No markdown, code blocks, section headers, or explanations."
+   )
 ):
  
     

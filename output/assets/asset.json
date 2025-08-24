@@ -1,0 +1,389 @@
+{
+    "assets": [
+        {
+            "order_id": 1,
+            "text": "Scrolling news",
+            "type": "gif"
+        },
+        {
+            "order_id": 2,
+            "text": "AI Meteoric Rise",
+            "type": "image"
+        },
+        {
+            "order_id": 3,
+            "text": "Nagging Doubt",
+            "type": "gif"
+        },
+        {
+            "order_id": 4,
+            "text": "Right Video",
+            "type": "image"
+        },
+        {
+            "order_id": 5,
+            "text": "Tech Cycles",
+            "type": "image"
+        },
+        {
+            "order_id": 6,
+            "text": "Shiny Promises",
+            "type": "text"
+        },
+        {
+            "order_id": 7,
+            "text": "Massive Bust?",
+            "type": "gif"
+        },
+        {
+            "order_id": 8,
+            "text": "Historic Crashes",
+            "type": "image"
+        },
+        {
+            "order_id": 9,
+            "text": "For me,",
+            "type": "text"
+        },
+        {
+            "order_id": 10,
+            "text": "Past Tech Bubbles",
+            "type": "image"
+        },
+        {
+            "order_id": 11,
+            "text": "Same Mistakes?",
+            "type": "gif"
+        },
+        {
+            "order_id": 12,
+            "text": "Inflated Stocks",
+            "type": "image"
+        },
+        {
+            "order_id": 13,
+            "text": "Not Wall Street",
+            "type": "image"
+        },
+        {
+            "order_id": 14,
+            "text": "Cracking Tech",
+            "type": "gif"
+        },
+        {
+            "order_id": 15,
+            "text": "Cracks in AI",
+            "type": "image"
+        },
+        {
+            "order_id": 16,
+            "text": "Dot Com Era",
+            "type": "image"
+        },
+        {
+            "order_id": 17,
+            "text": "Billions for Websites",
+            "type": "gif"
+        },
+        {
+            "order_id": 18,
+            "text": "Here's the thing",
+            "type": "text"
+        },
+        {
+            "order_id": 19,
+            "text": "Not just a feeling",
+            "type": "text"
+        },
+        {
+            "order_id": 20,
+            "text": "Concrete Indicators",
+            "type": "image"
+        },
+        {
+            "order_id": 21,
+            "text": "AI Hype Train",
+            "type": "gif"
+        },
+        {
+            "order_id": 22,
+            "text": "Well...",
+            "type": "text"
+        },
+        {
+            "order_id": 23,
+            "text": "GPT-5 Arrives",
+            "type": "image"
+        },
+        {
+            "order_id": 24,
+            "text": "No innovation roar",
+            "type": "image"
+        },
+        {
+            "order_id": 25,
+            "text": "Collective shrug",
+            "type": "gif"
+        },
+        {
+            "order_id": 26,
+            "text": "Its Performance",
+            "type": "text"
+        },
+        {
+            "order_id": 27,
+            "text": "Frankly...",
+            "type": "text"
+        },
+        {
+            "order_id": 28,
+            "text": "Underwhelming",
+            "type": "gif"
+        },
+        {
+            "order_id": 29,
+            "text": "And that...",
+            "type": "text"
+        },
+        {
+            "order_id": 30,
+            "text": "Surprised face",
+            "type": "gif"
+        },
+        {
+            "order_id": 31,
+            "text": "Market Jitters",
+            "type": "gif"
+        },
+        {
+            "order_id": 32,
+            "text": "Hitting a Plateau",
+            "type": "image"
+        },
+        {
+            "order_id": 33,
+            "text": "It gets worse",
+            "type": "text"
+        },
+        {
+            "order_id": 34,
+            "text": "Not just models",
+            "type": "image"
+        },
+        {
+            "order_id": 35,
+            "text": "High Failure Rate",
+            "type": "image"
+        },
+        {
+            "order_id": 36,
+            "text": "Money burning",
+            "type": "gif"
+        },
+        {
+            "order_id": 37,
+            "text": "Not Disappointment",
+            "type": "text"
+        },
+        {
+            "order_id": 38,
+            "text": "Shattered Confidence",
+            "type": "image"
+        },
+        {
+            "order_id": 39,
+            "text": "Now,",
+            "type": "text"
+        },
+        {
+            "order_id": 40,
+            "text": "Growing Pains?",
+            "type": "text"
+        },
+        {
+            "order_id": 41,
+            "text": "Right?",
+            "type": "text"
+        },
+        {
+            "order_id": 42,
+            "text": "AI Architects",
+            "type": "image"
+        },
+        {
+            "order_id": 43,
+            "text": "Gary Marcus",
+            "type": "image"
+        },
+        {
+            "order_id": 44,
+            "text": "Speaking out",
+            "type": "gif"
+        },
+        {
+            "order_id": 45,
+            "text": "AGI Expectations",
+            "type": "text"
+        },
+        {
+            "order_id": 46,
+            "text": "AGI",
+            "type": "text"
+        },
+        {
+            "order_id": 47,
+            "text": "Too soon",
+            "type": "image"
+        },
+        {
+            "order_id": 48,
+            "text": "Misunderstanding AI",
+            "type": "text"
+        },
+        {
+            "order_id": 49,
+            "text": "Castles on sand",
+            "type": "gif"
+        },
+        {
+            "order_id": 50,
+            "text": "Pattern vs. Intellect",
+            "type": "image"
+        },
+        {
+            "order_id": 51,
+            "text": "Wall Street Reacts",
+            "type": "image"
+        },
+        {
+            "order_id": 52,
+            "text": "Divided Room",
+            "type": "image"
+        },
+        {
+            "order_id": 53,
+            "text": "On one hand...",
+            "type": "text"
+        },
+        {
+            "order_id": 54,
+            "text": "Cautiously Optimistic",
+            "type": "image"
+        },
+        {
+            "order_id": 55,
+            "text": "Long Term Vision",
+            "type": "image"
+        },
+        {
+            "order_id": 56,
+            "text": "Investment for Growth",
+            "type": "image"
+        },
+        {
+            "order_id": 57,
+            "text": "Reassuring...",
+            "type": "gif"
+        },
+        {
+            "order_id": 58,
+            "text": "...doesn't it?",
+            "type": "text"
+        },
+        {
+            "order_id": 59,
+            "text": "But...",
+            "type": "text"
+        },
+        {
+            "order_id": 60,
+            "text": "Others...",
+            "type": "text"
+        },
+        {
+            "order_id": 61,
+            "text": "Deutsche Bank",
+            "type": "image"
+        },
+        {
+            "order_id": 62,
+            "text": "Loud Alarm",
+            "type": "gif"
+        },
+        {
+            "order_id": 63,
+            "text": "Overvalued Stocks",
+            "type": "image"
+        },
+        {
+            "order_id": 64,
+            "text": "AI Craze",
+            "type": "gif"
+        },
+        {
+            "order_id": 65,
+            "text": "Not just stocks",
+            "type": "image"
+        },
+        {
+            "order_id": 66,
+            "text": "Pouring money",
+            "type": "gif"
+        },
+        {
+            "order_id": 67,
+            "text": "AI Infrastructure",
+            "type": "image"
+        },
+        {
+            "order_id": 68,
+            "text": "Dot-com d\u00e9j\u00e0 vu",
+            "type": "image"
+        },
+        {
+            "order_id": 69,
+            "text": "Capacity > Demand",
+            "type": "image"
+        },
+        {
+            "order_id": 70,
+            "text": "Massive Losses",
+            "type": "image"
+        },
+        {
+            "order_id": 71,
+            "text": "Underwhelming Tech",
+            "type": "image"
+        },
+        {
+            "order_id": 72,
+            "text": "Failed Pilots",
+            "type": "gif"
+        },
+        {
+            "order_id": 73,
+            "text": "Expert Warnings",
+            "type": "image"
+        },
+        {
+            "order_id": 74,
+            "text": "Wall Street Divided",
+            "type": "image"
+        },
+        {
+            "order_id": 75,
+            "text": "AI Bubble?",
+            "type": "image"
+        },
+        {
+            "order_id": 76,
+            "text": "Bubble deflating",
+            "type": "gif"
+        },
+        {
+            "order_id": 77,
+            "text": "What's Next?",
+            "type": "text"
+        }
+    ]
+}

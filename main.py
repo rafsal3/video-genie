@@ -16,6 +16,8 @@ from tools import download_gif_tenor
 from tools import create_text_video
 from tools import text_to_sentences_json
 from tools import json_to_script_text
+from tools import generate_assets_from_json
+from tools import render_video
 
 
 
@@ -62,5 +64,9 @@ from tools import json_to_script_text
 # print("Generated Assets:", assets)
 
 
-output_file = map_assets_to_sentences(sentence_path='sentences.json', asset_path='asset.json')
-print("Mapped JSON saved at:", output_file)
+# output_file = map_assets_to_sentences(sentence_path='sentences.json', asset_path='asset.json')
+# print("Mapped JSON saved at:", output_file)
+
+
+if __name__ == "__main__":
+    render_video("mapped.json")

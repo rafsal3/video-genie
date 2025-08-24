@@ -22,3 +22,7 @@ from .image import download_gif_tenor
 
 # video modules
 from .video import create_text_video
+from .video import render_video
+
+# agent modules
+from .agent import generate_assets_from_json

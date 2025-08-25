@@ -16,7 +16,6 @@ from tools import download_gif_tenor
 from tools import create_text_video
 from tools import words_to_sentances
 from tools import json_to_script_text
-from tools import generate_assets_from_json
 from tools import render_video
 
 
@@ -78,32 +77,32 @@ from tools import generate_assets_from_json
 if __name__ == "__main__":
 
     #  1. Generate a script based on a topic
-    # topic = "charlie chaplin"
-    # output = generate_script(topic, "output/scripts/script.json")
-    # print("Generated JSON:\n", output)
+    topic = "charlie chaplin"
+    output = generate_script(topic, "output/scripts/script.json")
+    print("Generated JSON:\n", output)
 
     # 2. Convert the script to narration text
-    # script_text = json_to_script_text("output/scripts/script.json")
-    # print("Narration text:\n", script_text)
+    script_text = json_to_script_text("output/scripts/script.json")
+    print("Narration text:\n", script_text)
 
     # 3. Convert the narration text to audio
-    # audio_path = text_to_audio_elevenlabs(script_text, output_path="output/audio/01.mp3")
-    # print(f"Audio file saved as: {audio_path}")
+    audio_path = text_to_audio_elevenlabs(script_text, output_path="output/audio/01.mp3")
+    print(f"Audio file saved as: {audio_path}")
 
     # 4. Convert the audio to transcript
-    # audio_file = "output/audio/01.mp3"
-    # transcript_file = speech_to_text_assemblyai(audio_file, output_file="output/transcript/transcript.json")
-    # print(f"Transcript saved as: {transcript_file}")
+    audio_file = "output/audio/01.mp3"
+    transcript_file = speech_to_text_assemblyai(audio_file, output_file="output/transcript/transcript.json")
+    print(f"Transcript saved as: {transcript_file}")
 
     # 5. convert the transcript to sentences transcript
-    # transcript_file = "output/transcript/transcript.json"
-    # sentences_json = words_to_sentances(transcript_file, output_path="output/transcript/sentences.json")
-    # print("Sentences JSON:\n", sentences_json)
+    transcript_file = "output/transcript/transcript.json"
+    sentences_json = words_to_sentances(transcript_file, output_path="output/transcript/sentences.json")
+    print("Sentences JSON:\n", sentences_json)
 
     # 6. Generate assets based on the sentences
-    # sentences_json = "output/transcript/sentences.json"
-    # assets = generate_assets(sentences_json, output_path="output/assets/asset.json")
-    # print("Generated Assets:", assets)
+    sentences_json = "output/transcript/sentences.json"
+    assets = generate_assets(sentences_json, output_path="output/assets/asset.json")
+    print("Generated Assets:", assets)
 
     # 7. Map assets to sentences
     sentence_path = "output/transcript/sentences.json"

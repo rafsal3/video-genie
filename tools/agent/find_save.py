@@ -28,9 +28,15 @@ def process_item(item):
     if type_ == 'image':
         output_path = f"output/image/{order_id}.jpg"
         # Try Unsplash first
-        path = download_image_unsplash(keyword, output_path)
+        # path = download_image_unsplash(keyword, output_path)
+        # if path is None:
+        #     path = download_image_google(keyword, output_path)
+        # return path
+
+        # try google first
+        path = download_image_google(keyword, output_path)
         if path is None:
-            path = download_image_google(keyword, output_path)
+            path = download_image_unsplash(keyword, output_path)
         return path
     
     elif type_ == 'gif':

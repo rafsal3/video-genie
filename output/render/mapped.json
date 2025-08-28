@@ -1,0 +1,443 @@
+[
+  {
+    "order_id": 1,
+    "text": "ARCHITECTURAL MARVELS",
+    "type": "gif",
+    "start": 320,
+    "end": 1039
+  },
+  {
+    "order_id": 2,
+    "text": "HIDDEN STORIES",
+    "type": "gif",
+    "start": 1040,
+    "end": 5839
+  },
+  {
+    "order_id": 3,
+    "text": "THE RIGHT VIDEO",
+    "type": "text",
+    "start": 5840,
+    "end": 8319
+  },
+  {
+    "order_id": 4,
+    "text": "pyramid",
+    "type": "gif",
+    "start": 8320,
+    "end": 13759
+  },
+  {
+    "order_id": 5,
+    "text": "THE TRUTH",
+    "type": "text",
+    "start": 13760,
+    "end": 15679
+  },
+  {
+    "order_id": 6,
+    "text": "SCANDALOUS JOURNEY",
+    "type": "gif",
+    "start": 15680,
+    "end": 19119
+  },
+  {
+    "order_id": 7,
+    "text": "huge building",
+    "type": "gif",
+    "start": 19120,
+    "end": 22719
+  },
+  {
+    "order_id": 8,
+    "text": "I THOUGHT I KNEW",
+    "type": "text",
+    "start": 22720,
+    "end": 24399
+  },
+  {
+    "order_id": 9,
+    "text": "MIND BLOWN",
+    "type": "gif",
+    "start": 24400,
+    "end": 35449
+  },
+  {
+    "order_id": 10,
+    "text": "1889 WORLD'S FAIR",
+    "type": "image",
+    "start": 35450,
+    "end": 41609
+  },
+  {
+    "order_id": 11,
+    "text": "SHOCKING SECRET",
+    "type": "text",
+    "start": 41610,
+    "end": 42409
+  },
+  {
+    "order_id": 12,
+    "text": "ALMOST TORN DOWN",
+    "type": "gif",
+    "start": 42410,
+    "end": 43609
+  },
+  {
+    "order_id": 13,
+    "text": "NOT ONCE...",
+    "type": "text",
+    "start": 43610,
+    "end": 48649
+  },
+  {
+    "order_id": 14,
+    "text": "BUT REPEATEDLY",
+    "type": "text",
+    "start": 48650,
+    "end": 51169
+  },
+  {
+    "order_id": 15,
+    "text": "SHOCKING REASONS",
+    "type": "gif",
+    "start": 51170,
+    "end": 52409
+  },
+  {
+    "order_id": 16,
+    "text": "UGLY ASPARAGUS?",
+    "type": "text",
+    "start": 52410,
+    "end": 55289
+  },
+  {
+    "order_id": 17,
+    "text": "FIERCE OPPOSITION",
+    "type": "gif",
+    "start": 55290,
+    "end": 55889
+  },
+  {
+    "order_id": 18,
+    "text": "THE VISION",
+    "type": "text",
+    "start": 55890,
+    "end": 56289
+  },
+  {
+    "order_id": 19,
+    "text": "GUSTAVE EIFFEL",
+    "type": "image",
+    "start": 56290,
+    "end": 58009
+  },
+  {
+    "order_id": 20,
+    "text": "TALLEST IN WORLD",
+    "type": "gif",
+    "start": 58010,
+    "end": 62269
+  },
+  {
+    "order_id": 21,
+    "text": "HUMAN INGENUITY",
+    "type": "gif",
+    "start": 62270,
+    "end": 67229
+  },
+  {
+    "order_id": 22,
+    "text": "BUT...",
+    "type": "text",
+    "start": 67230,
+    "end": 68429
+  },
+  {
+    "order_id": 23,
+    "text": "PEOPLE HATED IT",
+    "type": "gif",
+    "start": 68430,
+    "end": 71069
+  },
+  {
+    "order_id": 24,
+    "text": "PUBLIC OUTCRY",
+    "type": "gif",
+    "start": 71070,
+    "end": 74589
+  },
+  {
+    "order_id": 25,
+    "text": "I WAS SHOCKED",
+    "type": "text",
+    "start": 74590,
+    "end": 76589
+  },
+  {
+    "order_id": 26,
+    "text": "PARISIAN ELITE",
+    "type": "image",
+    "start": 76590,
+    "end": 79549
+  },
+  {
+    "order_id": 27,
+    "text": "SIGNED PETITION",
+    "type": "gif",
+    "start": 79550,
+    "end": 84189
+  },
+  {
+    "order_id": 28,
+    "text": "AGAINST IT",
+    "type": "text",
+    "start": 84190,
+    "end": 86189
+  },
+  {
+    "order_id": 29,
+    "text": "MONSTROUS SKELETON",
+    "type": "gif",
+    "start": 86190,
+    "end": 90269
+  },
+  {
+    "order_id": 30,
+    "text": "BARBARIC MASS",
+    "type": "text",
+    "start": 90270,
+    "end": 91789
+  },
+  {
+    "order_id": 31,
+    "text": "RUIN PARIS",
+    "type": "gif",
+    "start": 91790,
+    "end": 94179
+  },
+  {
+    "order_id": 32,
+    "text": "AN INSULT",
+    "type": "text",
+    "start": 94180,
+    "end": 98099
+  },
+  {
+    "order_id": 33,
+    "text": "HOW DID HE WIN?",
+    "type": "gif",
+    "start": 98100,
+    "end": 103459
+  },
+  {
+    "order_id": 34,
+    "text": "THE REAL PLAN?",
+    "type": "text",
+    "start": 103460,
+    "end": 105379
+  },
+  {
+    "order_id": 35,
+    "text": "DRAMA UNFOLDS",
+    "type": "gif",
+    "start": 105380,
+    "end": 110819
+  },
+  {
+    "order_id": 36,
+    "text": "20 YEAR PERMIT",
+    "type": "text",
+    "start": 110820,
+    "end": 113139
+  },
+  {
+    "order_id": 37,
+    "text": "GONE BY 1909",
+    "type": "gif",
+    "start": 113140,
+    "end": 116419
+  },
+  {
+    "order_id": 38,
+    "text": "ESCAPE DEMOLITION",
+    "type": "gif",
+    "start": 116420,
+    "end": 117699
+  },
+  {
+    "order_id": 39,
+    "text": "UNEXPECTED GENIUS",
+    "type": "gif",
+    "start": 117700,
+    "end": 121769
+  },
+  {
+    "order_id": 40,
+    "text": "PURE LUCK",
+    "type": "gif",
+    "start": 121770,
+    "end": 126329
+  },
+  {
+    "order_id": 41,
+    "text": "EIFFEL'S PLAN",
+    "type": "gif",
+    "start": 126330,
+    "end": 131849
+  },
+  {
+    "order_id": 42,
+    "text": "SCIENTIFIC UTILITY",
+    "type": "gif",
+    "start": 131850,
+    "end": 132649
+  },
+  {
+    "order_id": 43,
+    "text": "CRITICALLY...",
+    "type": "text",
+    "start": 132650,
+    "end": 133769
+  },
+  {
+    "order_id": 44,
+    "text": "WIRELESS TELEGRAPHY",
+    "type": "gif",
+    "start": 133770,
+    "end": 138169
+  },
+  {
+    "order_id": 45,
+    "text": "EARLY RADIO",
+    "type": "gif",
+    "start": 138170,
+    "end": 141129
+  },
+  {
+    "order_id": 46,
+    "text": "PRECARIOUS",
+    "type": "text",
+    "start": 141130,
+    "end": 144169
+  },
+  {
+    "order_id": 47,
+    "text": "SUDDENLY...",
+    "type": "text",
+    "start": 144170,
+    "end": 144729
+  },
+  {
+    "order_id": 48,
+    "text": "COMMUNICATIONS HUB",
+    "type": "gif",
+    "start": 144730,
+    "end": 147439
+  },
+  {
+    "order_id": 49,
+    "text": "FRENCH MILITARY",
+    "type": "image",
+    "start": 147440,
+    "end": 150719
+  },
+  {
+    "order_id": 50,
+    "text": "ITS SALVATION",
+    "type": "gif",
+    "start": 150720,
+    "end": 154559
+  },
+  {
+    "order_id": 51,
+    "text": "THE BEST PART",
+    "type": "text",
+    "start": 154560,
+    "end": 155199
+  },
+  {
+    "order_id": 52,
+    "text": "WORLD WAR I",
+    "type": "image",
+    "start": 155200,
+    "end": 157039
+  },
+  {
+    "order_id": 53,
+    "text": "JAMMING ENEMY",
+    "type": "gif",
+    "start": 157040,
+    "end": 159279
+  },
+  {
+    "order_id": 54,
+    "text": "VITAL MESSAGES",
+    "type": "gif",
+    "start": 159280,
+    "end": 161519
+  },
+  {
+    "order_id": 55,
+    "text": "PERMANENT",
+    "type": "text",
+    "start": 161520,
+    "end": 164079
+  },
+  {
+    "order_id": 56,
+    "text": "NO RADIO WAVES?",
+    "type": "gif",
+    "start": 164080,
+    "end": 165839
+  },
+  {
+    "order_id": 57,
+    "text": "JUST A BLUEPRINT",
+    "type": "image",
+    "start": 165840,
+    "end": 168639
+  },
+  {
+    "order_id": 58,
+    "text": "DIFFERENT HISTORY",
+    "type": "gif",
+    "start": 168640,
+    "end": 172399
+  },
+  {
+    "order_id": 59,
+    "text": "TEMPORARY PIECE",
+    "type": "image",
+    "start": 172400,
+    "end": 174879
+  },
+  {
+    "order_id": 60,
+    "text": "SCIENTIFIC NECESSITY",
+    "type": "gif",
+    "start": 174880,
+    "end": 175999
+  },
+  {
+    "order_id": 61,
+    "text": "IRREPLACEABLE",
+    "type": "gif",
+    "start": 176000,
+    "end": 177479
+  },
+  {
+    "order_id": 62,
+    "text": "INNOVATION WINS",
+    "type": "gif",
+    "start": 177480,
+    "end": 182959
+  },
+  {
+    "order_id": 63,
+    "text": "ETERNAL ICON",
+    "type": "gif",
+    "start": 182960,
+    "end": 184079
+  }
+]
